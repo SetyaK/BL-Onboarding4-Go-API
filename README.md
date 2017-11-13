@@ -9,9 +9,9 @@ This is my second project on SRE onboarding to understand the ruby sinatra web a
 
 ## Architecture Diagram
 ```
-+--------------------+        +------------------+         +---------+
-|  Project API/CMD   | <--->  |  Ministore Lib   |  <--->  |  MySql  |
-+--------------------+        +------------------+         +---------+
++--------------------+        +---------------------+         +---------+
+|  Project API/CMD   | <--->  |  Ministore Package  |  <--->  |  MySql  |
++--------------------+        +---------------------+         +---------+
 ```
 
 ## Owner
